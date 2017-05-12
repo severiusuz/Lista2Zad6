@@ -1,0 +1,8 @@
+D:\33InfA\Pieniazek\Lista2\Zad6\Zad6\Zad6\bin\Debug\Zad6.exe.config
+D:\33InfA\Pieniazek\Lista2\Zad6\Zad6\Zad6\bin\Debug\Zad6.exe
+D:\33InfA\Pieniazek\Lista2\Zad6\Zad6\Zad6\bin\Debug\Zad6.pdb
+D:\33InfA\Pieniazek\Lista2\Zad6\Zad6\Zad6\bin\Debug\Zad6.Core.dll
+D:\33InfA\Pieniazek\Lista2\Zad6\Zad6\Zad6\bin\Debug\Zad6.Core.pdb
+D:\33InfA\Pieniazek\Lista2\Zad6\Zad6\Zad6\obj\Debug\Zad6.csprojResolveAssemblyReference.cache
+D:\33InfA\Pieniazek\Lista2\Zad6\Zad6\Zad6\obj\Debug\Zad6.exe
+D:\33InfA\Pieniazek\Lista2\Zad6\Zad6\Zad6\obj\Debug\Zad6.pdb
